@@ -4,7 +4,7 @@
 **Goal:**
 > Predictions for April, May, June, July, August, September 2021.
 
-## Time series forecasting using ARIMA models
+## 2.Time series forecasting using ARIMA models
 
 In this project, you are requested to demonstrate Auto Regressive Integrated Moving Average (ARIMA) model and use it to forecast a time series. Perform the following:
 
