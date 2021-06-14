@@ -19,5 +19,6 @@ In this project, you are requested to demonstrate Auto Regressive Integrated Mov
 ## 4. ARIMA with Fourier terms
 
 > The goal of this notebook is to show how to tune ARIMA model with additional regressors. We will add some Fourier terms to capture multiple seasonality and compare the best      model with TBATS model.
+
 > Dataset use  Web Traffic Time Series Forecasting from kaggle
 
