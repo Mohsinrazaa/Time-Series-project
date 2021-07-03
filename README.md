@@ -22,3 +22,7 @@ In this project, you are requested to demonstrate Auto Regressive Integrated Mov
 
 > Dataset use  Web Traffic Time Series Forecasting from kaggle
 
+## Finding Best Distribution that Fits Data using Fitter
+
+> Finding the Best Distribution that Fits Your Data using Python’s  `Fitter` Library
+> Also finding the Z score and precentile for lognoramal form. 
